@@ -1,13 +1,16 @@
-# cricket-report-analysis
-
 # Cricket Report Analysis
 
-A Python-based data analysis tool to extract insights from cricket match reports.
+A Python-based data analysis tool to process cricket match reports, extract statistics, and visualize performance insights.
 
 ## Features
-- Analyzes player and match statistics.
-- Generates data visualizations for run rates and performance.
+- Analyzes team and player performance metrics.
+- Generates visual charts for run rates, wickets, and match trends.
+- Summarizes match reports automatically using Python.
 
-## How to Run
-1. Install requirements: `pip install -r requirements.txt`
-2. Run script: `python hello.py`
+## Setup & Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/SanjayRaamesh/cricket-report-analysis.git](https://github.com/SanjayRaamesh/cricket-report-analysis.git)
+
+   pip install -r requirements.txt
+   python hello.py
